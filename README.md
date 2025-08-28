@@ -1,4 +1,5 @@
-Output-example-
+#Output-example-
+
 ![](https://github.com/Deepspacee12/Abnormal-event-detector/blob/main/Output%20Examples/Explosion023_x264.gif)
 
 Implementation of [Real-world Anomaly Detection in Surveillance Videos](https://arxiv.org/pdf/1801.04264.pdf) paper from CVPR 2018.
